@@ -91,6 +91,13 @@
 - [Google hosts](https://laod.cn/hosts/2020-hosts.html)：提供一些相关的谷歌服务加速
 - [Microsoft hosts](https://github.com/Marukon/Microsoft-Hosts)：提供一些相关的微软服务加速
 
-UpdateLog
+### UpdateLog
 
 - 2020.3.30 第一版上线
+
+### 捐助本站
+> 此网站为出于兴趣所作，所有费用支持均来自捐助，如果你喜欢，请考虑
+
+- [微信](https://s1.ax1x.com/2020/03/30/GnBpge.jpg)
+
+- [支付宝](https://s1.ax1x.com/2020/03/30/GnBqxg.jpg)
