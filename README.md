@@ -98,6 +98,6 @@
 ### 捐助本站
 > 此网站为出于兴趣所作，所有费用支持均来自捐助，如果你喜欢，请考虑
 
-- [微信](https://s1.ax1x.com/2020/03/30/GnBpge.jpg)
+- [微信](https://github.com/MicageEritc/newmedia/blob/master/image/IMG_3537.JPG)
 
-- [支付宝](https://s1.ax1x.com/2020/03/30/GnBqxg.jpg)
+- [支付宝](https://github.com/MicageEritc/newmedia/blob/master/image/IMG_3536.JPG)
